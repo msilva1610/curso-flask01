@@ -22,7 +22,7 @@ create database statusok_curso;
 \c statusok_curso
 ```
 
-### VErificar todas as tabelas
+### Verificar todas as tabelas
 ```
 \dt
 ```
@@ -48,3 +48,5 @@ pipenv install flask-sqlalchemy
 ```
 pipenv install psycopg2-binary
 ```
+
+### 
