@@ -32,4 +32,6 @@ git push -u origin master
 
 [16 - Retornando objeto json com jsonnify](../../tree/4c35cdf07b173402b1c17b2c1582101a04e6ecef)
 
-[17 - 17 - Usando postgres via docker](../../tree/c96794bee696c09d85e5f911a792d238adf85595)
+[17 - Usando postgres via docker](../../tree/c96794bee696c09d85e5f911a792d238adf85595)
+
+[18 - Conectando o flask ao postgres](../../tree/d39bdcf56202113ef6b2e5cf9734a5f314de4a9c)
