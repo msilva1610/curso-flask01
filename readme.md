@@ -31,3 +31,5 @@ git push -u origin master
 [15 - Entendo as Blueprints](../../tree/a764b7ef50c84402a9f7ee4adb7122c64fd0bfbf)
 
 [16 - Retornando objeto json com jsonnify](../../tree/4c35cdf07b173402b1c17b2c1582101a04e6ecef)
+
+[17 - 17 - Usando postgres via docker](../../tree/c96794bee696c09d85e5f911a792d238adf85595)
